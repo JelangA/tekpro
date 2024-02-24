@@ -1,0 +1,44 @@
+======================================= Data Menu ====================================
+
+List<Menu> products
+
+{
+    new Menu("Bala-bala", 1000, 17),
+    new Menu("Gehu", 1000, 18),
+    new Menu("Tahu", 1000, 0),
+    new Menu("Molen", 1000, 14)
+}
+
+
+======================================= Data Order ====================================
+{
+    order1 : {
+        items : [
+            {"1","bangkong", 22, 12000},
+            {"2","bangkong", 22, 12000},
+            {"3","bangkong", 22, 12000},
+            {"4","bangkong", 22, 12000},
+            {"5","bangkong", 22, 12000},
+            {"6","bangkong", 22, 12000}
+        ],
+        totalBayar : 264000
+    }
+
+}
+
+Map<String, List<Menu>> Order
+Map<String, Map<String, List<Menu>>>
+
+{
+    order001={
+        items=[
+            Tugas.Pertemuan3.tugas2.soal.Product@2b71fc7e,
+            Tugas.Pertemuan3.tugas2.soal.Product@5ce65a89,
+            Tugas.Pertemuan3.tugas2.soal.Product@25f38edc,
+            Tugas.Pertemuan3.tugas2.soal.Product@1a86f2f1
+        ]
+
+    }
+}
+
+
