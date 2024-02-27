@@ -1,0 +1,42 @@
+
+r
+java:S1104	"UMake userInput a static final constant or non-public and provide accessors if needed.(ðµ´ï8ŒÃ“ÞÝ1
+L
+java:S1444	"/Make this "public static userInput" field final(ðµ´ï8ŒÃ“ÞÝ1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(üôÑæ8üù‹ÞÝ1
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 53 to the 15 allowed.(Çµí‘8íÄ“ÞÝ1
+S
+java:S1481"1Remove this unused "dontShowMenu" local variable.(à³¿¦üÿÿÿÿ8­Ò­ßÝ1
+F	java:S106"+Replace this use of System.out by a logger.(è˜óK8ôÄ“ÞÝ1
+G	java:S106"+Replace this use of System.out by a logger.(”ó“ž8ôÄ“ÞÝ1
+L	java:S106"+Replace this use of System.out by a logger.(™ÆÒÆÿÿÿÿÿ8õÄ“ÞÝ1
+L	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8õÄ“ÞÝ1
+L	java:S106!"+Replace this use of System.out by a logger.(°µÝšýÿÿÿÿ8÷Ä“ÞÝ1
+G	java:S106""+Replace this use of System.out by a logger.(è†¹¿8øÄ“ÞÝ1
+F	java:S106&"+Replace this use of System.out by a logger.(²‡ô8øÄ“ÞÝ1
+G	java:S106)"+Replace this use of System.out by a logger.(ÇŸïé8øÄ“ÞÝ1
+F	java:S1060"+Replace this use of System.out by a logger.(£ÐŸ8ùÄ“ÞÝ1
+L	java:S1065"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8úÄ“ÞÝ1
+G	java:S1069"+Replace this use of System.out by a logger.(Ž˜Ö©8ûÄ“ÞÝ1
+G	java:S106<"+Replace this use of System.out by a logger.(ÀµËò8üÄ“ÞÝ1
+F	java:S106@"+Replace this use of System.out by a logger.(íâ¹_8ýÄ“ÞÝ1
+L	java:S106E"+Replace this use of System.out by a logger.(ŸÏÛ÷úÿÿÿÿ8þÄ“ÞÝ1
+G	java:S106K"+Replace this use of System.out by a logger.(îÕ–Þ8ÿÄ“ÞÝ1
+G	java:S106M"+Replace this use of System.out by a logger.(“•Ò¾8€Å“ÞÝ1
+L	java:S106T"+Replace this use of System.out by a logger.(µâ¢¤úÿÿÿÿ8Å“ÞÝ1
+L	java:S106Z"+Replace this use of System.out by a logger.(ôã×®ÿÿÿÿÿ8‚Å“ÞÝ1
+G	java:S106["+Replace this use of System.out by a logger.(ÏÌ³8ƒÅ“ÞÝ1
+F	java:S106`"+Replace this use of System.out by a logger.(½…¿8„Å“ÞÝ1
+L	java:S106d"+Replace this use of System.out by a logger.(£ÛŒÃùÿÿÿÿ8…Å“ÞÝ1
+G	java:S106e"+Replace this use of System.out by a logger.(ÏÌ³8†Å“ÞÝ1
+G	java:S106j"+Replace this use of System.out by a logger.(è†¹¿8‡Å“ÞÝ1
+F	java:S106m"+Replace this use of System.out by a logger.(²‡ô8‡Å“ÞÝ1
+G	java:S106p"+Replace this use of System.out by a logger.(ÇŸïé8‡Å“ÞÝ1
+L	java:S106t"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8ˆÅ“ÞÝ1
+F	java:S106x"+Replace this use of System.out by a logger.(½…¿8ˆÅ“ÞÝ1
+L	java:S106}"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8‰Å“ÞÝ1
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8«¹³ßÝ1
+ã
+java:S6541"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 96 to 64, Complexity from 18 to 14, Nesting Level from 6 to 2, Number of Variables from 16 to 6.(Çµí‘8ŒÅ“ÞÝ1

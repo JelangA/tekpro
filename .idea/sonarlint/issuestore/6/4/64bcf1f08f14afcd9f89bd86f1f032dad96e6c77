@@ -1,0 +1,26 @@
+
+p
+java:S1192'"SDefine a constant instead of duplicating this literal "%-15s %-5.5s %s %n" 3 times.(‰óĞ 8ùëşŞİ1
+…
+java:S1192&"hDefine a constant instead of duplicating this literal "=======================================" 6 times.(Ø…ÿ¿8ùëşŞİ1
+x
+java:S11925"VDefine a constant instead of duplicating this literal "   !!! Stok Habis !!!" 3 times.(¾·«°ûÿÿÿÿ8ùëşŞİ1
+r	java:S1172"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õŸ‘ùÿÿÿÿ8úëşŞİ1
+l	java:S117h"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Šç«r8Éñªßİ1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(üôÑæ8şëşŞİ1
+G	java:S106$"+Replace this use of System.out by a logger.(àÊßŒ8¢ìşŞİ1
+G	java:S106&"+Replace this use of System.out by a logger.(Ø…ÿ¿8£ìşŞİ1
+G	java:S106'"+Replace this use of System.out by a logger.(‰óĞ 8£ìşŞİ1
+G	java:S106("+Replace this use of System.out by a logger.(Ø…ÿ¿8£ìşŞİ1
+L	java:S106,"+Replace this use of System.out by a logger.(†¶Õşùÿÿÿÿ8¤ìşŞİ1
+G	java:S106-"+Replace this use of System.out by a logger.(Ø…ÿ¿8¥ìşŞİ1
+K
+java:S1874/".Remove this use of "Locale"; it is deprecated.(ÅÈúî8§ìşŞİ1
+L	java:S1067"+Replace this use of System.out by a logger.(±ó½–øÿÿÿÿ8ªìşŞİ1
+G	java:S1069"+Replace this use of System.out by a logger.(Ø…ÿ¿8ªìşŞİ1
+L	java:S106b"+Replace this use of System.out by a logger.(ÑÀøêøÿÿÿÿ8‘òªßİ1
+G	java:S106c"+Replace this use of System.out by a logger.(Ø…ÿ¿8’òªßİ1
+K
+java:S1874e".Remove this use of "Locale"; it is deprecated.(ÅÈúî8”òªßİ1
+G	java:S106m"+Replace this use of System.out by a logger.(û»”©8–òªßİ1
+G	java:S106o"+Replace this use of System.out by a logger.(Ø…ÿ¿8—òªßİ1

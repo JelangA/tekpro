@@ -1,0 +1,17 @@
+
+f
+java:S1192"IDefine a constant instead of duplicating this literal " volume=" 3 times.(î€ûó8°Ãº¡Þ1
+i
+java:S1192"LDefine a constant instead of duplicating this literal " base area=" 3 times.(¥°¶·8±Ãº¡Þ1
+g
+java:S1192"JDefine a constant instead of duplicating this literal "Cylinder:" 3 times.(Íµ£Á8±Ãº¡Þ1
+k
+java:S1192
+"IDefine a constant instead of duplicating this literal " height=" 3 times.(êžüÐøÿÿÿÿ8²Ãº¡Þ1
+k
+java:S1192	"IDefine a constant instead of duplicating this literal " radius=" 3 times.(ºóš€ýÿÿÿÿ8²Ãº¡Þ1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(·±“èþÿÿÿÿ8´Ãº¡Þ1
+G	java:S106"+Replace this use of System.out by a logger.(Íµ£Á8ÃÃº¡Þ1
+G	java:S106"+Replace this use of System.out by a logger.(Íµ£Á8ÄÃº¡Þ1
+G	java:S106"+Replace this use of System.out by a logger.(Íµ£Á8ÆÃº¡Þ1
+L	java:S106$"+Replace this use of System.out by a logger.(ºŸÈÑûÿÿÿÿ8ÈÃº¡Þ1

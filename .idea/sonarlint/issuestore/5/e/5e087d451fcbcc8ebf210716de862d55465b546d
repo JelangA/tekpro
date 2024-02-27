@@ -1,0 +1,23 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ßÄ¸Úûÿÿÿÿ8—Õ½€Ü1
+{
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8Ê·¾€Ü1
+L	java:S106"+Replace this use of System.out by a logger.(áİ’Èşÿÿÿÿ8Í·¾€Ü1
+L	java:S106	"+Replace this use of System.out by a logger.(ÙãµŒøÿÿÿÿ8Ô·¾€Ü1
+E
+java:S1172"(Remove this unused method parameter "i".(çÒ÷˜8Ğ·¾€Ü1
+L	java:S106"+Replace this use of System.out by a logger.(Ç‚ş©ÿÿÿÿÿ8Ø‰¿€Ü1
+G	java:S106"+Replace this use of System.out by a logger.(±½é‘8ÓÿÆ€Ü1
+{
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8û¼Ø€Ü1
+G	java:S106"+Replace this use of System.out by a logger.(ô›µ’8¦ñÒ€Ü1
+T
+java:S1854%"7Remove this useless assignment to local variable "dua".(Ë›Ãã8ËÿÆ€Ü1
+U
+java:S1854!"8Remove this useless assignment to local variable "satu".(»‚ã 8Ú‰¿€Ü1
+G	java:S106 "+Replace this use of System.out by a logger.(†ıÌ8­‰Ù€Ü1
+F
+java:S1481!")Remove this unused "satu" local variable.(»‚ã 8ß‰¿€Ü1
+L	java:S106#"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ÅƒÚ€Ü1
+E
+java:S1481%"(Remove this unused "dua" local variable.(Ë›Ãã8ÖÿÆ€Ü1
